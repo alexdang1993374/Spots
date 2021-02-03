@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #36a6ce;
+  height: 80px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.ResultDiv {
+  border-style: solid;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+a {
+  right: 0px;
+  bottom: 0px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  color: #1c7e88;
+  margin-bottom: 30px;
+  margin-right: 30px;
+}
+
+.SearchText{
+  padding: 14px 16px 14px 16px;
+  font: 400 16px/1 'Montserrat', sans-serif;
+  letter-spacing: 2px;
+}
+
+
+select{
+  padding: 10px 10px 10px 10px;
+  font: 200 16px/1 'Montserrat', sans-serif;
+  margin-left:5px;
+}
+
+button {
+  margin-left:2.5px;
+  font: 200 16px/1 'Montserrat', sans-serif;
+}
